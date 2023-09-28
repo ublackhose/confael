@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b50b5f7-024d-4dcc-be97-1d02a04e6fe0" name="confael test">
+        <fileTransfer rootFolder="/srv/sites/confaelshop/r3.confaelshop.dev.4rome.ru/www" accessType="SFTP" host="ssh.dev.4rome.ru" port="7824" sshConfigId="33422bb0-5f09-4a64-a1c2-d1711e36acbc" sshConfig="i.klementev@ssh.dev.4rome.ru:7824 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
